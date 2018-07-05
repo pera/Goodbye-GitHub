@@ -10,10 +10,12 @@
 Today, June 4th 2018, the evil software corporation known as "Microsoft" has
 announced an agreement to acquire GitHub. For this reason, I have decided to
 stop using GitHub for my personal projects and move to some other web-based
-version control hosting. I am currently considering Savannah, Bitbucket, GitLab
-or a self-hosted solution. I will update this repository once I have taken a
-decision and finished the migration.
+version control hosting.
+
+After considering various different options, I have concluded that GitLab is
+an excelent alternative to GitHub. You can find my new profile page here:
+
+https://gitlab.com/peramides
 
 Thank you GitHub for these past ten years serving the libre software community,
 you will be missed!
-
